@@ -1,1 +1,17 @@
 /* styles go here */
+
+.fields {
+  margin-bottom: 20px;
+}
+
+div {
+  margin-bottom: 10px;
+}
+
+fieldset :last-child {
+  margin: 0;
+}
+
+#one {
+  margin-bottom: 13px;
+}
