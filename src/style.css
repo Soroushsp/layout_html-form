@@ -4,14 +4,14 @@
   margin-bottom: 20px;
 }
 
-div {
+.item {
   margin-bottom: 10px;
 }
 
-fieldset :last-child {
+.fields :last-child {
   margin: 0;
 }
 
-#one {
+.birthdate {
   margin-bottom: 13px;
 }
